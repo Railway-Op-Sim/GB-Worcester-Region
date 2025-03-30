@@ -1,0 +1,15 @@
+rly_file = "Worcester.rly"
+ttb_files = [ "Worcester_Region_Mar_2025_0600.ttb",]
+img_files = [ "Worcester_Region.bmp",]
+doc_files = [ "README.md",]
+release_date = "2025-03-30"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2025
+display_name = "Worcester Region"
+name = "Worcester Region"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
