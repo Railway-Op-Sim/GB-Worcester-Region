@@ -11,9 +11,9 @@ Simulation of Worcester, Kidderminster and Malvern area in the UK, including Mid
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
-| Speed Limits | :x: |
-| Distances | :x: |
-| Timetable | :x: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
+| Timetable | :heavy_check_mark: |
 | Documentation | :x: |
 
 
