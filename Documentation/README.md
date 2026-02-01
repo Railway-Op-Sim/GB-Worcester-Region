@@ -1,26 +1,12 @@
-# Project Title
+# Worcester Region
 
-*About the project goes here*
-
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+This map covers the greater Worcester area in the United Kingdom stretching from Kidderminster in the north down to Ledbury via Worcester Shrub Hill, and Worcester Foregate Street.
 
 ## Simulation
 
-*This section describes the timetable*
+The included timetable is set in Spring 2025 and includes local services operated by West Midlands Railway, and services towards London by Great Western Railway. All stations and platforms are included.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+### Tips
 
-## Development
-
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+- Be sure to correctly observe the service timetables, many services turn around at Worcester Shrub Hill.
+- Worcester Foregate Street has two bi-directional platforms with trains coming from either Droitwich Spa, or Worcester Shrub Hill.
