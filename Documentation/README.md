@@ -12,7 +12,7 @@ This will very likely trip you up, even the author regularly had to start again 
 
 |**Location**|**Description**|**Comments**|
 |------------|---------------|------------|
-|Henwick     |Towards Malvern from Foregate Street.|Use reversing siding.|
+|Henwick     |Towards Malvern from Foregate Street.|Use reversing siding or line towards Hereford.|
 |Wylds Lane Junction|Just north of Worcester Parkway (WP) portal.|Use the lower track for reversing.<br>Manually route trains towards WP wrong direction.|
 |Signal 54|Just south of Shrub Hill platform 2 towards Worcestershire Parkway.|Manually route trains towards WP.|
 |Tunnel Junction|Just north of Worcester towards Droitwich Spa.|Reverse just after the shunt signal.|
@@ -23,3 +23,4 @@ This will very likely trip you up, even the author regularly had to start again 
 
 - Be sure to correctly observe the service timetables, many services turn around at Worcester Shrub Hill.
 - Worcester Foregate Street has two bi-directional platforms with trains coming from either Droitwich Spa, or Worcester Shrub Hill. Note there is no crossover to the right of Foregate Street so make sure trains are routed correctly entering from the Malvern direction.
+- Do not set automatic signals after opening the session, these have already been set and doing so will prevent reversing at Wylds Lane Junction.
