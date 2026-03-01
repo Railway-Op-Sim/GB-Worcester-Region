@@ -23,3 +23,4 @@ Simulation of Worcester, Kidderminster and Malvern area in the UK, including Mid
 - [OpenTrainTimes](https://www.opentraintimes.com/)
 - [Traksy](https://traksy.uk/live)
 - [Map Meurisse](https://map.meurisse.org/)
+- [Signals of Worcester, Roscalen.com](https://www.roscalen.com/signals/Worcester/index.htm)

@@ -6,6 +6,7 @@ ssn_files = [ "Worcester_Region_Mar_2025_0600.ssn",]
 release_date = "2026-02-01"
 version = "1.0.0"
 country_code = "GB"
+difficulty = 8
 factual = true
 description = "Simulation of the area around Worcester, UK"
 year = 2025
